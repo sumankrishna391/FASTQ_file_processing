@@ -48,3 +48,6 @@ OR
 
 # To Save HTML report to Downloads folder
 cp test_udemy_fastqc.html /mnt/c/Users/HP/Downloads/
+
+<img width="924" height="574" alt="image" src="https://github.com/user-attachments/assets/66139214-d2c4-4cc2-8d0c-5bcd9b443e4c" />
+
